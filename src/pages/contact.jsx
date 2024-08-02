@@ -7,8 +7,8 @@ const contact = () => {
   return (
     <Layout>
       <Seo
-        title="Contact Us | Revista"
-        description="Reach out for any inquiries, or find out how you can help our mission!"
+        title="Contact Me"
+        description="Temporairaly unavailable"
       />
       <ContactForm />
     </Layout>
